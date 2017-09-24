@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "Learn core javascript",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "text": "build it with production",
+      "isComplete": false
+    },
+    {
+      "id": 3394,
+      "text": "todo one",
+      "isComplete": true
+    }
+  ]
+}
